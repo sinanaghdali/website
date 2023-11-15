@@ -11,3 +11,4 @@ def about_view(reguest):
 
 def contact_view(reguest):
     return render(reguest,'website/contact.html')
+ 
