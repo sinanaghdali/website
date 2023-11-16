@@ -5,3 +5,5 @@ urlpatterns = [
     path('about',about_view), 
     path('contact',contact_view),
 ] 
+
+
